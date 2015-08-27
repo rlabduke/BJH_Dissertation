@@ -1,0 +1,4 @@
+To identify potential mismodeled purines source phenix and then run:
+$ python ../get_diff_density_around_base.py xxxx
+where 'xxxx' is a PDB code.
+
